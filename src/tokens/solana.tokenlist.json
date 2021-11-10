@@ -24074,3 +24074,18 @@
    "twitter": "https://twitter.com/solbananabucks"
  }
 }
+
+,
+ "chainId": 101,
+ "address": "AYhrr3LQ7eLmiRyUHK66wrtDmfkV8tdKUz4hZsvDMHPZ",
+ "symbol": "JULIO",
+ "name": "JULIO",
+ "decimals": 9,
+ "logoURI": "https://user-images.githubusercontent.com/86097015/141050579-148bc7da-6027-45da-9492-1720bc050486.png",
+ "tags": [
+"fans-token"
+ ],
+ "extensions": {
+   "telegram": "https://t.me/CzTydakDermawan",
+ }
+}
