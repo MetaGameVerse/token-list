@@ -24868,4 +24868,22 @@
     "minor": 3,
     "patch": 2
   }
+},
+{
+      "chainId": 101,
+      "address": "9LrYanEHerh8bNzPmYdas1fdw2fTkg4EM3vWPq1zG5Tb",
+      "symbol": "MGV",
+      "name": "MetaGameVerse",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/94097115/141469821-49b22e2f-68b1-4d10-9343-ff00ab7581a3.png",
+      "tags": [
+        "NFTs",
+        "Gaming"
+      ],
+      "extensions": {
+        "website": "https://metagameverse.info/",
+        "twitter": "https://twitter.com/MetaGameVerse",
+        "telegram": "https://t.me/MetaGameVerse",
+        "discord": "https://medium.com/@MetaGameVerse",
+      }
 }
