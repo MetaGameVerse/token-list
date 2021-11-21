@@ -8847,6 +8847,20 @@
     },
     {
       "chainId": 101,
+      "address": "AYhrr3LQ7eLmiRyUHK66wrtDmfkV8tdKUz4hZsvDMHPZ",
+      "symbol": "JULIO",
+      "name": "Julio",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/txCV2v4/20211121-233124.png",
+      "tags": [
+        "MeMek"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/julio.idn/",
+      }
+},
+    {
+      "chainId": 101,
       "address": "49LoAnQQdo9171zfcWRUoQLYSScrxXobbuwt14xjvfVm",
       "symbol": "waUniUSDT",
       "name": "Aave Interest bearing UniUSDT (Wormhole)",
